@@ -1,0 +1,7 @@
+red 1 0 0
+orange 1 0.65 0
+yellow 1 0.94 0
+green 0 1 0
+blue 0 0 1
+indigo 0.29 0 0.51
+violet 0.56 0 1
