@@ -1,5 +1,5 @@
 # FractalGeneration
-University individual assignment to produce fractal generation of Julia Sets and generate an animation. (ENGGEN 313, 2020)
+University individual assignment to produce fractal generation of Julia Sets and generate an animation. (Introduction to Engineering Computation and Software Development, 2020)
 
 #### Author: Rachel Nataatmadja
 
